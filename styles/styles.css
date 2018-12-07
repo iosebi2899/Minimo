@@ -60,6 +60,9 @@ a{
 	font-size:30px;
 	color: #626262;
 }
+.photodiary h1 a {
+	color: #626262;
+}
 .photodiary .text {
 	font-family: 'Playfair Display',sans-serif;
 	margin-right: 15%;
@@ -113,7 +116,9 @@ a{
 	font-size: 28px;
 	font-family: 'Playfair Display',sans-serif;
 	color: #626262;
-
+}
+.article-text h1 a{
+	color: #626262;
 }
 .text {
 	line-height: 24px;
